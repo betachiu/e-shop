@@ -24,7 +24,7 @@ const drawItems = (itemList) => {
 
 const doCheap = () => {
 	const newItems = items.filter((value) => {
-		return value.price < 20000;
+		return value.price < 5000;
 	});
 
 	drawItems(newItems);
