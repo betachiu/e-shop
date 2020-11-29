@@ -46,7 +46,7 @@
   color: #444;
 }
 #store #shop .card .img:hover {
-  color: darkgoldenrod;
+  color: gray;
 }
 #store #shop .card:hover {
   cursor: pointer;
